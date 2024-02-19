@@ -1,0 +1,2 @@
+# Blogy
+ Blogy is a dynamic Next.js web application designed for seamless blogging experiences. Featuring GitHub authentication for secure user logins, Blogy empowers admins to create, manage, and delete blog posts effortlessly. Utilizing Next Auth for authentication, bcrypt for password encryption, and MongoDB for efficient data storage, Blogy ensures top-notch security and reliability. Explore Blogy today and revolutionize your blogging journey! #NextJS #GitHubAuthentication #NextAuth #bcrypt #MongoDB
